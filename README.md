@@ -8,3 +8,5 @@ piloting a hurricane
    - [ ] SST
 
  - get and clean up best track data (both post-genesis and pre-genesis)
+   - [ ] track vorticity/low pressure/AEW
+  
