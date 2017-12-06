@@ -13,7 +13,7 @@ piloting a hurricane
    
         see. Thorncroft et al., 2001
   - [ ] Best track data
-        - [ ] read and plot: 
-              
-              http://www.nhc.noaa.gov/data/#hurdat
+    - [ ] read and plot: 
+        
+        http://www.nhc.noaa.gov/data/#hurdat
   
