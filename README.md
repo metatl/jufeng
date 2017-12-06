@@ -10,7 +10,8 @@ piloting a hurricane
          https://www.metoffice.gov.uk/hadobs/hadsst3/data/download.html
  - get and clean up best track data (both post-genesis and pre-genesis)
    - [ ] track vorticity/low pressure/AEW
-         see. Thorncroft et al., 2001
-   - [ ] best track data
+       
+   ⋅⋅⋅ see. Thorncroft et al., 2001
+   - [ ] Best track data
          - [ ] read and plot: http://www.nhc.noaa.gov/data/#hurdat
   
