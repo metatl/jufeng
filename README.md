@@ -4,6 +4,8 @@ piloting a hurricane
 ### 1st To-do list:
 - Gather samples and associated variables
   - [ ] satellite data (include sporadic measurements or continuous only?)
+  
+    ISCCP 3hourly; CLAUS Brightness Temperature; NOAA IR temp
   - [ ] reanalysis
         
   http://apps.ecmwf.int/datasets/data/interim-full-daily/levtype=sfc/
