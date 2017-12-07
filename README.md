@@ -13,7 +13,9 @@ piloting a hurricane
 - get and clean up best track data (both post-genesis and pre-genesis)
   - [ ] track vorticity/low pressure/AEW
    
-        see. Thorncroft et al., 2001 (https://data.noaa.gov/dataset/african-easterly-wave-climatology-version-1)
+    see. Thorncroft et al., 2001
+    
+    https://data.noaa.gov/dataset/african-easterly-wave-climatology-version-1
   - [ ] Best track data
     - [ ] read and plot: 
         
