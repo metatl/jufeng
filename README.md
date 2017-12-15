@@ -9,7 +9,7 @@ piloting a hurricane
   - [X] reanalysis
         
     http://apps.ecmwf.int/datasets/data/interim-full-daily/levtype=sfc/
-  - [ ] SST
+  - [X] SST
         
     https://www.metoffice.gov.uk/hadobs/hadsst3/data/download.html
 - get and clean up best track data (both post-genesis and pre-genesis)
@@ -22,4 +22,6 @@ piloting a hurricane
     - [ ] read and plot: 
         
         http://www.nhc.noaa.gov/data/#hurdat
+        
+        https://www.ncdc.noaa.gov/ibtracs/
   
