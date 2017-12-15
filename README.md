@@ -6,7 +6,7 @@ piloting a hurricane
   - [ ] satellite data (include sporadic measurements or continuous only?)
   
     ISCCP 3hourly; CLAUS Brightness Temperature; NOAA IR temp
-  - [ ] reanalysis
+  - [X] reanalysis
         
     http://apps.ecmwf.int/datasets/data/interim-full-daily/levtype=sfc/
   - [ ] SST
